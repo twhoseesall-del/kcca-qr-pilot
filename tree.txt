@@ -1,0 +1,18 @@
+kcca-qr-pilot/
+├── .gitignore
+├── README.md
+├── backend/
+│   ├── .env.example
+│   ├── Dockerfile
+│   ├── package.json
+│   └── server.js
+└── frontend/
+    ├── .env.example
+    ├── Dockerfile
+    ├── nginx.conf
+    ├── package.json
+    ├── vite.config.js
+    ├── index.html
+    └── src/
+        ├── App.jsx
+        └── main.jsx
