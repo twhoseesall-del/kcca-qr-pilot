@@ -24,4 +24,3 @@ This repository is optimized for deployment on [Coolify](https://coolify.io/).
 3. **Deploy Frontend:**
    - Create a new Application, point it to this repo, and set the **Base Directory** to `/frontend`.
    - Set the environment variable `VITE_API_URL` to the public URL of your deployed backend (e.g., `https://api.yourdomain.com`).
-   -
